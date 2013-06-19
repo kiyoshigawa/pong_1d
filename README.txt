@@ -4,6 +4,9 @@
 
 /*
 This is the code to run a one-dimensional pong game off the Elefu MMC84.
+The MMC84 is now available from the folks at http://www.elefu.com and
+is on kickstarter at:
+http://www.kickstarter.com/projects/104819283/elefu-base-a-modular-arduino-compatible-system
 
 It operated by having two players with one button each, and a row 
 of LEDs between them. One player will press a button, and the game 
